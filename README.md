@@ -7,7 +7,6 @@
 
 
 </div> 
----
 
 # 🚀 About Me
 
@@ -23,7 +22,6 @@ public:
 };
 ```
 
----
 
 # ⚡ Tech Stack
 
