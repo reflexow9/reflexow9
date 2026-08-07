@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👋 Hey, I'm reflexow9
+# 👋 Hey, I'm reflexow9 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Backend+Engineer;Competitive+Programmer;Always+Learning+Something+New"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=220&section=header&text=Welcome!&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 </div> 
 ---
