@@ -1,7 +1,8 @@
+
+# 👋 Hey, I'm reflexow9  
+
+<img src = "https://i.pinimg.com/originals/c1/9d/1f/c19d1fac3f408e20fe37a243a9c08f04.gif"> 
 <div align="center">
-
-# 👋 Hey, I'm reflexow9 
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Backend+Engineer;Competitive+Programmer;Always+Learning+Something+New"/>
 
 
