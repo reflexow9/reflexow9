@@ -1,8 +1,8 @@
+<div align="center">
 
 # 👋 Hey, I'm reflexow9  
 <img width="640" height="640" alt="Image" src="https://github.com/user-attachments/assets/f4b204ed-054d-41c4-935a-69fd20ade7c2" />
 <img src = "https://i.pinimg.com/originals/c1/9d/1f/c19d1fac3f408e20fe37a243a9c08f04.gif"> 
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Backend+Engineer;Competitive+Programmer;Always+Learning+Something+New"/>
 
 
@@ -33,25 +33,6 @@ public:
 
 </p>
 
----
-
-# 🔥 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 <div align="center">
 
