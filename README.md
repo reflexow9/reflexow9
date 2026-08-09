@@ -31,11 +31,3 @@ public:
 
 </p>
 
-
-<div align="center">
-
-## ⚡ Keep Building
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=150&section=footer"/>
-
-</div>
