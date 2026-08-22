@@ -14,11 +14,11 @@
 class Artem {
 public:
     string role = "Full Stack Developer";
-    string language = "C++";
+    string languages = "JS", "Python(based)", "C++(based)";
     string backend = "Node.js";
     string frontend = "React";
     string database = "PostgreSQL";
-    string learning = "System Design";
+    string learning = "System Design", "React", "Node.js", "TypeScript";
 };
 ```
 
