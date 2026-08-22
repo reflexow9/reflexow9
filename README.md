@@ -13,7 +13,7 @@
 ```cpp
 class Artem {
 public:
-    string role = "Full Stack Developer";
+    string role = "Frontend Developer", "Full Stack Developer";
     string languages = "JS", "Python(based)", "C++(based)";
     string backend = "Node.js";
     string frontend = "React";
